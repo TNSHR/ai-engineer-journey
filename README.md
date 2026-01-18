@@ -20,4 +20,5 @@ This repository documents my journey to becoming an AI Engineer.
 - Day 5–8: Data handling (files, NumPy, Pandas)
 
 More updates coming soon.
+- Day 9: Data visualization using Matplotlib
 
